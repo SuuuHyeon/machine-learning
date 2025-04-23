@@ -32,6 +32,7 @@
 - Python 3.x
 - Jupyter Notebook
 - Colab에서도 실행 가능
+- Notion
 
 ---
 
